@@ -13,10 +13,9 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=Adobe Xd&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+  
+  </br>Developers</br>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=5C2D91&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/>
 </div>
-
----------------
-#### 🔭 I’m currently working on BOJ solving
-#### 🌱 I’m currently learning python, and OS
-#### 💬 Ask me about anything you want
-#### ⚡ Fun fact: My FO4 nickname :)
