@@ -1,4 +1,3 @@
-### 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245)](https://solved.ac/zxcrtf245/)
 <!--
 **Zunhokim/Zunhokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
