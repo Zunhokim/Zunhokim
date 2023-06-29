@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/>
 
   </br>👊 Supporting</br>
-  <img src="https://img.shields.io/badge/Scuderiaferrari-D40000?style=flat-square&logo=Ferrari&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Scuderia Ferrari-D40000?style=flat-square&logo=Ferrari&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Nike-111111?style=flat-square&logo=Nike&logoColor=FFFFFF"/>
   
 </div>
