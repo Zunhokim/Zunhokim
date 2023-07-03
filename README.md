@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=FFFFFF"/>
   
   🛠️ Developers</br>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/>
 
