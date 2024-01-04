@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=Adobe Xd&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF"/>
   
   🛠️ Developers</br>
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=FFFFFF"/>
