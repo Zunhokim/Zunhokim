@@ -1,7 +1,9 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
-  <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br>
+  <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zunhokim&show_icons=true&theme=radical"</br>
 </div>
+
 <div align="center">
   </br>💡 Language</br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
