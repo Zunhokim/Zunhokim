@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFFFB5&height=150&section=header&text='ZUNOBONO's Git'&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFFFB5&height=150&section=header&text=ZUNOBONO Git&fontSize=40"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
   <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
 </div>
