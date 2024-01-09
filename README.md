@@ -1,6 +1,6 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
-  <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=skyblue"/></br>
+  <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=blue"/></br>
 </div>
 
 <div align="center">
