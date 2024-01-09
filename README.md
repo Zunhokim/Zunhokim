@@ -1,6 +1,6 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zunhokim)](https://github.com/anuraghazra/github-readme-stats)</br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunhokim"></br>
 </div>
 
 <div align="center">
