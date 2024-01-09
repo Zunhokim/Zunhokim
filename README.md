@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=A9CBD7&height=50&section=header&text=Zunhokim&fontSize=20" />
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
   <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
