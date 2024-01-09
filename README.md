@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/Scuderia Ferrari-D40000?style=flat-square&logo=Ferrari&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Nike-111111?style=flat-square&logo=Nike&logoColor=FFFFFF"/></br></br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunhokim&theme=merko"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunhokim&theme=merko&radius=10"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9AD756&height=100&section=footer"/>
 </div>
