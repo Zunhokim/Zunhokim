@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=A9CBD7&height=150&section=header&text=ZUNOBONO&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFFFB5&height=150&section=header&text=ZUNOBONO&fontSize=40"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
   <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
 </div>
@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/badge/Scuderia Ferrari-D40000?style=flat-square&logo=Ferrari&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Nike-111111?style=flat-square&logo=Nike&logoColor=FFFFFF"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A9CBD7&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFB5&height=150&section=footer" />
 </div>
