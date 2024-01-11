@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></br>
   </br>🖥️ Tools</br>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=Adobe Xd&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=Xd&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Premiere Pro&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF"/></br>
   </br>🛠️ Developers</br>
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=FFFFFF"/>
