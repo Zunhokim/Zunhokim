@@ -4,7 +4,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
 </div>
 
-<div ailgn="center">
+<div align="center">
   
   </br>💡 Language</br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
