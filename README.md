@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=00BFFF&height=200&section=header&text=👋&nbsp;Hi!&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;Git&nbsp;👋&fontSize=40"/>
   <a href="https://solved.ac/profile/zxcrtf245">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">
+    <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/>
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
+  </br></br>
 </div>
 
 <div align="center">
