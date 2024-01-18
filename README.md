@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0A308B&height=200&section=header&text=👋&nbsp;Hi!&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;Git&nbsp;👋&fontSize=40&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=E0FFFF&height=200&section=header&text=👋&nbsp;Hi!&nbsp;Welcome&nbsp;to&nbsp;my&nbsp;Git&nbsp;👋&fontSize=40"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">  
   <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/></br></br>
 </div>
@@ -25,6 +25,6 @@
   <img src="https://img.shields.io/badge/Nike-111111?style=flat-square&logo=Nike&logoColor=FFFFFF"/></br></br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunhokim&theme=react-dark&radius=16"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A308B&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0FFFF&height=100&section=footer"/>
   
 </div>
