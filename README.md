@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=00BFFF&height=200&section=header&text=👋&nbsp;Welcome&nbsp;to&nbsp;Zunobono's&nbsp;Git&npsp;👋&fontSize=36"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=00BFFF&height=200&section=header&text=👋&nbsp;Welcome&nbsp;to&nbsp;Zunobono's&nbsp;Git&nbsp;👋&fontSize=36"/>
   <a href="https://solved.ac/profile/zxcrtf245" style="text-decoration: none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcrtf245">
     <img src="http://mazandi.herokuapp.com/api?handle=zxcrtf245&theme=dark"/>
