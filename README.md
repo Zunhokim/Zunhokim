@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></br>
+  </br>📚 STUDYING</br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Oracle&logoColor=FFFFFF"/>
   </br>🖥️ TOOL</br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Xd-FF61F6?style=flat-square&logo=Adobe Xd&logoColor=FFFFFF"/>
