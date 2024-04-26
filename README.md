@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Java-F80000?style=plastic&logo=Oracle&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=Oracle&logoColor=FFFFFF"/></br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=FFFFFF"/></br>
   </br>🖥️ TOOL</br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe Photoshop&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Xd-FF61F6?style=plastic&logo=Adobe Xd&logoColor=FFFFFF"/>
